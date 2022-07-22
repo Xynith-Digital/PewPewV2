@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Xynith-Digital/PewPewV2">
-    <img src="images/banner.png" alt="Logo" width="600" height="150">
+    <img src="images/banner.png" alt="Logo" width="480" height="270">
   </a>
 
 ### Built With
